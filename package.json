@@ -1,0 +1,21 @@
+{
+  "name": "fail-link-traversal-install-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "comunica-compile-config config.json > engine-default.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeswr/fail-link-traversal-install-demo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeswr/fail-link-traversal-install-demo/issues"
+  },
+  "homepage": "https://github.com/jeswr/fail-link-traversal-install-demo#readme",
+  "dependencies": {
+    "@comunica/actor-init-sparql-link-traversal": "^0.0.2-alpha.e75a15a.0"
+  }
+}
