@@ -16,6 +16,8 @@
   },
   "homepage": "https://github.com/jeswr/fail-link-traversal-install-demo#readme",
   "dependencies": {
-    "@comunica/actor-init-sparql-link-traversal": "^0.0.2-alpha.e75a15a.0"
+    "@comunica/actor-init-sparql": "^1.22.3",
+    "@comunica/actor-init-sparql-link-traversal": "^0.0.2-alpha.e75a15a.0",
+    "@comunica/runner": "^1.22.0"
   }
 }
